@@ -107,5 +107,8 @@ conn.close()
 server_socket.close()
 
 ```
+## OUTPUT:
+<img width="1920" height="1080" alt="Screenshot (203)" src="https://github.com/user-attachments/assets/3c19c07f-0d0c-46c4-b736-14e105ff7115" />
+
 ## Result:
 Thus the study of Socket Programming Completed Successfully
